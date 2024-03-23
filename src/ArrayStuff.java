@@ -79,6 +79,7 @@ public class ArrayStuff
         System.out.println("The average of the data points is: " + getAverage(dataPoints));
 
     }
+    //method to calculate double average from a set of data
     public static double getAverage(int values[])
     {
         double sum = 0;
